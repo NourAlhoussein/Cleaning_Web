@@ -1,0 +1,43 @@
+.home-about-back {
+  background-color: #f0f9f5;
+}
+.main-color {
+  color: #113d3c;
+}
+.learn-button {
+  background-color: #f0f9f5;
+  border: 1px solid #113d3c !important;
+  border-radius: 40px;
+  color: #113d3c;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 10px 60px 10px 60px;
+}
+.learn-button:hover {
+  background-color: #113d3c;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.learn-button:focus-visible {
+  background-color: #113d3c !important;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.learn-button:active {
+  background-color: #113d3c !important;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.pad-3rem {
+  padding: 3rem;
+}
+@media screen and (max-width: 992px) {
+  .pad-3rem {
+    padding: 1rem;
+  }
+}
+@media screen and (max-width: 576px) {
+  .mt-small-size {
+    margin-top: 2rem;
+  }
+}

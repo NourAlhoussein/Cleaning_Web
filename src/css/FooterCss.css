@@ -1,0 +1,39 @@
+.main-bg-color {
+  background-color: #113d3c;
+}
+.flex {
+  display: flex;
+}
+.flex-row {
+  flex-flow: row;
+}
+.justify-content-center {
+  justify-content: center !important;
+}
+.align-items-center {
+  align-items: center !important;
+}
+.white-color {
+  color: white;
+}
+.p-70px {
+  padding: 70px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+@media screen and (max-width: 992px) {
+  .item-dis-none {
+    display: none;
+  }
+  .fs-5 {
+    font-size: 15px !important;
+  }
+  .p-70px {
+    padding: 50px 25px;
+  }
+  .mt-small-sise{
+    margin-top: 25px;
+  }
+ 
+}

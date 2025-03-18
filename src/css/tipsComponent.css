@@ -1,0 +1,46 @@
+.tips-back {
+  background-color: #d4faea;
+}
+.book-now-button {
+  background-color: #113d3c;
+  color: #f0f9f5;
+  padding: 12px 80px;
+  border-radius: 40px;
+  cursor: pointer;
+  margin-top: 25px;
+  font-size: 20px;
+}
+.book-now-button:hover {
+  background-color: #09201f;
+}
+.book-now-button:focus-visible {
+  background-color: #09201f;
+  border: none;
+}
+.book-now-button:active {
+  background-color: #09201f !important;
+  border: none;
+}
+.order-photo {
+  order: 2;
+}
+.order-text {
+  order: 1;
+}
+.pad-3rem {
+  padding: 3rem;
+}
+.back-baby-blue {
+  background-color: #d4faea;
+}
+@media screen and (max-width: 992px) {
+  .order-photo {
+    order: 1;
+  }
+  .order-text {
+    order: 2;
+  }
+  .pad-3rem {
+    padding: 1rem;
+  }
+}

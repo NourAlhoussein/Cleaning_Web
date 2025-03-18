@@ -1,0 +1,27 @@
+.client-photo {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+.card-client-style {
+  background-color: #f0f9f5 !important;
+  border-radius: 0px !important;
+  border: none !important;
+  padding: 20px;
+  height: 100%;
+}
+.card-header-style {
+  border-bottom: none !important;
+  background-color: #f0f9f5 !important;
+}
+@media screen and (max-width: 992px) {
+  .card-client-style {
+    padding: 10px !important;
+  }
+  .mt-card-small {
+    margin-top: 20px;
+  }
+  .mt-name-small {
+    margin-top: 10px;
+  }
+}

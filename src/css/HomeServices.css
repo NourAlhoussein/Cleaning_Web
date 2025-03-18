@@ -1,0 +1,73 @@
+.home-services-back {
+  background-color: #f0f9f5;
+}
+.gray-color {
+  color: #6c6c75;
+}
+.pos-relative {
+  position: relative;
+}
+.card-services-title {
+  position: absolute;
+  left: 40px;
+  top: 10px;
+  font-size: 40px;
+  z-index: 1;
+}
+.back-baby-blue {
+  background-color: #d4faea;
+}
+.discover-button {
+  color: white;
+  font-weight: bold;
+  background-color: #113d3c;
+  border-radius: 40px;
+  padding: 15px 70px 15px 70px;
+  font-size: 20px;
+}
+.discover-button:hover {
+  background-color: #09201f;
+}
+.discover-button:focus-visible {
+  background-color: #09201f !important;
+}
+.discover-button:active {
+  background-color: #09201f !important;
+}
+.card-s-mt {
+  margin-top: 1rem;
+}
+.hover-card-s:hover {
+  scale: 1.02;
+  transition: 1s;
+}
+@media screen and (max-width: 576px) {
+  .card-services-title {
+    font-size: 10px;
+    left: 10px;
+  }
+  .card-s-pad {
+    padding: 2px !important;
+  }
+  .card-s-mt {
+    margin-top: 0rem;
+  }
+  .align-center-small {
+    text-align: center;
+  }
+  .discover-button {
+    padding: 10px 70px 10px 70px;
+    font-size: 15px;
+    margin-top: 10px;
+  }
+}
+@media screen and (max-width: 992px) and (min-width: 577px) {
+  .card-services-title {
+    font-size: 20px;
+    left: 20px;
+  }
+  .discover-button {
+    padding: 10px 25px 10px 25px;
+    font-size: 15px;
+  }
+}

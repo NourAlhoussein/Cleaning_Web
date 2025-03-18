@@ -1,0 +1,63 @@
+.p-demo {
+  padding: 125px 0px 0px 0px;
+}
+.card-s-type {
+  background-color: #f0f9f5 !important;
+  border-radius: 0px !important;
+  border: none !important;
+  padding: 20px;
+  height: 100%;
+}
+.card-s-header {
+  background-color: #f0f9f5 !important;
+  border-radius: 0px !important;
+  border: none !important;
+  padding: 0px !important;
+}
+.line-card-type {
+  height: 1px;
+  width: 100%;
+  background-color: #6c6c7569;
+  margin-top: 20px;
+}
+.card-s-button {
+  background-color: #f0f9f5;
+  border: 1px solid #113d3c !important;
+  border-radius: 40px;
+  color: #113d3c;
+  font-weight: 700;
+  font-size: 20px;
+  padding: 10px 60px 10px 60px;
+}
+.card-s-button:hover {
+  background-color: #113d3c;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.card-s-button:focus-visible {
+  background-color: #113d3c;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.card-s-button:active {
+  background-color: #113d3c !important;
+  border: 1px solid #f0f9f5 !important;
+  color: #f0f9f5;
+}
+.gray-color {
+  color: #6c6c75;
+}
+@media screen and (max-width: 768px) {
+  .card-s-button {
+    font-size: 12px;
+    padding: 6px 45px 6px 45px;
+  }
+  .p-demo {
+    padding: 100px 0px 0px 0px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .p-demo {
+    padding: 100px 0px 0px 0px;
+  }
+}
