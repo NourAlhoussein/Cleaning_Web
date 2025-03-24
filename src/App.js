@@ -10,10 +10,10 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/Cleaning_Web/" element={<Home />} />
-        <Route exact path="/Cleaning_Web/services" element={<OurServices />} />
-        <Route exact path="/Cleaning_Web/about" element={<AboutUs />} />
-        <Route exact path="/Cleaning_Web/contact" element={<ContactUs />} />
+        <Route exact path="/" element={<Home />} />
+        <Route exact path="/services" element={<OurServices />} />
+        <Route exact path="/about" element={<AboutUs />} />
+        <Route exact path="/contact" element={<ContactUs />} />
       </Routes>
     </Router>
   );
