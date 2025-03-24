@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Cleaning_Web/static/css/main.51c2b517.css",
+    "main.js": "/Cleaning_Web/static/js/main.2dd6ee2d.js",
+    "static/js/453.5dd946a2.chunk.js": "/Cleaning_Web/static/js/453.5dd946a2.chunk.js",
+    "static/media/Home-page.png": "/Cleaning_Web/static/media/Home-page.2dfb7affc2b867952fce.png",
+    "static/media/carWaching.jpg": "/Cleaning_Web/static/media/carWaching.ccc0d14b9d61acc1f18c.jpg",
+    "static/media/cleaningGirl.jpg": "/Cleaning_Web/static/media/cleaningGirl.0c7c9fb20f8351c053c6.jpg",
+    "static/media/officeCleaning.jpg": "/Cleaning_Web/static/media/officeCleaning.2a36c9bac1768571f2f9.jpg",
+    "static/media/homeCleaning.jpg": "/Cleaning_Web/static/media/homeCleaning.0f8cbedf7eaf1aac6a49.jpg",
+    "static/media/client3.jpg": "/Cleaning_Web/static/media/client3.4f2666070f85cf8f0304.jpg",
+    "static/media/client1.jpg": "/Cleaning_Web/static/media/client1.7f7cd15554410fe9b8f0.jpg",
+    "static/media/man-cleaning.jpg": "/Cleaning_Web/static/media/man-cleaning.26fb9fcbab8392694ee0.jpg",
+    "static/media/ironing.jpg": "/Cleaning_Web/static/media/ironing.813155211a699beaa0f1.jpg",
+    "static/media/client2.jpg": "/Cleaning_Web/static/media/client2.d8551c70adba292e3414.jpg",
+    "index.html": "/Cleaning_Web/index.html",
+    "main.51c2b517.css.map": "/Cleaning_Web/static/css/main.51c2b517.css.map",
+    "main.2dd6ee2d.js.map": "/Cleaning_Web/static/js/main.2dd6ee2d.js.map",
+    "453.5dd946a2.chunk.js.map": "/Cleaning_Web/static/js/453.5dd946a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c2b517.css",
+    "static/js/main.2dd6ee2d.js"
+  ]
+}
